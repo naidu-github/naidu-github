@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @naidu-github
+- 👀 I’m interested in data science
+- 🌱 I’m currently trying to learn basic of python.
